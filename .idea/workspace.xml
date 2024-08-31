@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56c4750f-21b9-4e76-a519-c55c5497ccd0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="56c4750f-21b9-4e76-a519-c55c5497ccd0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +51,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\Python\Mentor\AI_Course\linear_regression" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,7 +75,7 @@
       <workItem from="1724855801672" duration="85000" />
       <workItem from="1725073181293" duration="2539000" />
       <workItem from="1725077910522" duration="236000" />
-      <workItem from="1725078157364" duration="43000" />
+      <workItem from="1725078157364" duration="128000" />
     </task>
     <servers />
   </component>
